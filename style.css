@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Montserrat:wght@200;400&family=Outfit:wght@100&family=Raleway:wght@500&family=Roboto&family=Roboto+Mono:wght@200&display=swap');
+
+.col-img {
+    background-image: url(showcase.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-primary {
+    background-color: #fff !important;
+    font-family: Montserrat, sans-serif;
+}
