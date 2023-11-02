@@ -8,6 +8,23 @@
 }
 
 .bg-primary {
-    background-color: #fff !important;
+    background: #fff !important;
     font-family: Montserrat, sans-serif;
+}
+
+.pb-6 {
+    padding-bottom: 200px;
+}
+
+@media (max-width: 768px) {
+    .pb-6{
+        padding-bottom: 80px;
+    }
+    .text-black {
+        color: #fff !important;
+    }
+    .bg-primary {
+        background: #303237 !important;
+    }
+
 }
